@@ -16,7 +16,7 @@
 <u><h1>1.Muhammad Asif </h1></u>
 
 <a href="https://ibb.co/bzFFnrh">
-<img src="https://i.ibb.co/bzFFnrh/asif.jpg" height="500" width="400"/></a>
+<img src="https://i.ibb.co/bzFFnrh/asif.jpg" height="500" width="400"/>
 
 
 
@@ -28,7 +28,7 @@
 <u><h1>2.Shubram Pakira </h1></u>
 
 <a href="https://ibb.co/VVsR1kr">
-<img src="https://i.ibb.co/p2Sc7kG/shub.jpg"height="400" width="400"/></a>
+<img src="https://i.ibb.co/p2Sc7kG/shub.jpg"height="400" width="400"/>
  
 
 <br><a href="https://www.facebook.com/shubram.pakira"/>Facebook account</a>
