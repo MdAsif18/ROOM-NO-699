@@ -49,8 +49,8 @@
 
 <u><h1>4.Debojaty Sarkar</h1></u> 
 
-<a href="https://ibb.co/cYLZTRS">
-    <img src="https://i.ibb.co/cYLZTRS/sarkar.jpg" height="450" width="400"/>
+<a href="https://ibb.co/ZB3dMfW">
+<img src="https://i.ibb.co/7nHv1S2/sarkar.jpg" height="450" width="400"/>
 
 <br><a href="https://www.facebook.com/profile.php?id=100010153875188"/>Facebook account</a>
 
