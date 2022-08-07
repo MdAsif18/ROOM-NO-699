@@ -1,4 +1,7 @@
-# cabin<head><title>Cabin no 6</title></head>
+# cabin
+
+<html> 
+<head><title>Cabin no 6</title></head>
 
 <body style ="background:url(https://ibb.co/k9YDdH3)" ></body>
 
@@ -63,3 +66,4 @@
 <br><a href="https://www.google.com"/>Click here to open google</a>
 
 </body>
+</html>
