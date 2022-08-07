@@ -67,7 +67,8 @@
 
 <br><a href="https://www.facebook.com/souvik.pal.16718979"/>Facebook account</a>
 
-<br><a href="https://www.google.com"/>Click here to open google>
+<br>
+    <br><a href="https://www.google.com"/>Click here to open google>
 
 </body>
 </html>
