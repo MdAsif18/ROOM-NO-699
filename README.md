@@ -58,9 +58,9 @@
 
     <u><h1>5.Souvik Pal</h1></u>
 
-    <a href="https://ibb.co/WxSHBM9">
-    <img src="https://i.ibb.co/WxSHBM9/souvik.jpg
-" height="500" width="400"/>
+    <a href="https://ibb.co/fCcc2vj">
+    <img src="https://i.ibb.co/fCcc2vj/souvik.jpg" height="500" width="400"/>
+
 
 <br><a href="https://www.facebook.com/souvik.pal.16718979"/>Facebook account</a>
 
