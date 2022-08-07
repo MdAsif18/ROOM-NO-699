@@ -1,4 +1,4 @@
-# cabin
+
 
 <html> 
 <head><title>Cabin no 6</title></head>
