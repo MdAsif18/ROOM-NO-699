@@ -15,9 +15,11 @@
 
 <u><h1>1.Muhammad Asif </h1></u>
 
-<a href="https://ibb.co/2MLbT5q">
+<a href="https://ibb.co/bzFFnrh">
+<img src="https://i.ibb.co/bzFFnrh/asif.jpg" height="500" width="400"/></a>
 
-    <img src="https://i.ibb.co/ykM3rV0/asif.jpg" height="500" width="400"/></a>
+
+
 
 <br><a href="https://www.facebook.com/profile.php?id=100006655876341"/>Facebook account</a>
 
