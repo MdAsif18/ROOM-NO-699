@@ -27,7 +27,7 @@
 
 <a href="https://ibb.co/wNrHfcV">
 
-    <img src="https://i.ibb.co/wNrHfcV/shub.jpg" "height="400" width="400"/></a>
+    <img src="https://i.ibb.co/wNrHfcV/shub.jpg" height="400" width="400"/></a>
 
 <br><a href="https://www.facebook.com/shubram.pakira"/>Facebook account</a>
 
