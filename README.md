@@ -11,7 +11,7 @@
 
     <h1 style="background-color:green">CABIN NO 6 FAMILY</h1>
 
-<p> <u><h2>Below mentioned are the total list of all current members of Cabin no 6 and their social media link</h2></u></p>
+<p style="font-size:24px;color:orange;"> Below mentioned are the total list of all current members of Cabin no 6 and their social media link</p>
 
 <u><h1>1.Muhammad Asif </h1></u>
 
