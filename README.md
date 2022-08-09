@@ -6,6 +6,7 @@
 <body style ="background:url(https://ibb.co/k9YDdH3)" ></body>
 
 <body>
+body { background-color: gray;}
 
     
 
