@@ -2,7 +2,7 @@
 
 <html> 
 <head><title>Cabin no 6</title></head>
-<style> WELCOME 
+<style> button
 { background-color : red ; } </style>
 <button> Welcome </button>
 
