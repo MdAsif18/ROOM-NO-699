@@ -25,7 +25,7 @@ width : 100px;
 
 </style>
 <button class=" Welcome-button"> Welcome </button>
-<button>To</button>
+<button class ="To-button">To</button>
 
 <body style ="background:url(https://ibb.co/k9YDdH3) " ></body>
 
