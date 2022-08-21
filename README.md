@@ -4,7 +4,7 @@
 <head><title>Cabin no 6</title></head>
 <style> 
 .Welcome-button
-{ background-color : orange ;
+{ background-color : saffron ;
 color:white;
 height : 100px;
 width: 200px ;
@@ -29,7 +29,7 @@ cursor : pointer;
 margin-right: 10px ;
 
 }
-.Our Family-button {
+.Family-button {
 background-color : white ;
 border-radius: 10px ;
 border-style : solid ;
@@ -64,7 +64,7 @@ cursor : pointer ;
 </style>
 <button class=" Welcome-button"> Welcome </button>
 <button class ="To-button">To</button>
-<button class= "Our Family"> Our Family</button>
+<button class= "Family">Family</button>
 
 <body style ="background:url(https://ibb.co/k9YDdH3) " ></body>
 
