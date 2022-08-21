@@ -11,7 +11,19 @@ width: 500px ;
 border-radius: 10px ;
 cursor : pointer ;
 
-} </style>
+} 
+.to-button {
+background-color : white ;
+border-color : black;
+border-style : solid ;
+border-width: 2px ;
+color : rgb(41,118,211);
+height: 100px ;
+width : 100px;
+
+}
+
+</style>
 <button class=" Welcome-button"> Welcome </button>
 <button> To</button>
 
