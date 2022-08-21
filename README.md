@@ -77,18 +77,25 @@ box-shadow: 10px 10px 10px black ;
 <button class ="To-button">To</button>
 <button class="Family-button"> Family</button>
 
-<body style ="background:url(https://ibb.co/k9YDdH3) " ></body>
 
-<body>
-<body style="background-color:red;">
+
+
 
     
 
     <h1 style="background-color
 
 :green">CABIN NO 6 FAMILY</h1>
+<style>
+.video-title {
+font-family : Arial ;
+font-size : 20px ;
+}
+</style>
 
-<p style="font-size:60px;color:orange;"><u>Below mentioned are the total list of all current members of Cabin no 6 and their social media link</u></p>
+
+<p class = "video-title" >
+Below mentioned are the total list of all current members of Cabin no 6 and their social media link</p>
 
 <u><h1>1.Muhammad Asif </h1></u>
 
