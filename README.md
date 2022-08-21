@@ -9,7 +9,7 @@ color:white;
 height : 100px;
 width: 200px ;
 border-radius: 10px ;
-font-size : 20px ;
+font-size : 100px ;
 cursor : pointer ;
 margin-right : 10px ;
 
@@ -23,7 +23,7 @@ border-width: 2px ;
 color : blue ;
 height: 100px ;
 width : 100px;
-font-size : 20px ;
+font-size : 100px ;
 border-radius: 10px ;
 cursor : pointer;
 margin-right: 10px ;
