@@ -5,6 +5,7 @@
 <style> button
 { background-color : red ;
 color:white;
+height : 50px;
 } </style>
 <button> Welcome </button>
 
@@ -15,7 +16,9 @@ color:white;
 
     
 
-    <h1 style="background-color:green">CABIN NO 6 FAMILY</h1>
+    <h1 style="background-color
+
+:green">CABIN NO 6 FAMILY</h1>
 
 <p style="font-size:60px;color:orange;"><u>Below mentioned are the total list of all current members of Cabin no 6 and their social media link</u></p>
 
