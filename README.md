@@ -27,7 +27,7 @@ cursor : pointer;
 margin-right: 10px ;
 
 }
-.OurFamily-button {
+.Our Family-button {
 background-color : white ;
 border-radius: 10px ;
 border-style : solid ;
@@ -62,7 +62,7 @@ cursor : pointer ;
 </style>
 <button class=" Welcome-button"> Welcome </button>
 <button class ="To-button">To</button>
-<button class= "OurFamily"> OurFamily</button>
+<button class= "Our Family"> Our Family</button>
 
 <body style ="background:url(https://ibb.co/k9YDdH3) " ></body>
 
