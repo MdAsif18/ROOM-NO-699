@@ -4,11 +4,12 @@
 <head><title>Cabin no 6</title></head>
 <style> 
 .Welcome-button
-{ background-color : red ;
+{ background-color : orange ;
 color:white;
 height : 100px;
 width: 200px ;
 border-radius: 10px ;
+font-size : 20px ;
 cursor : pointer ;
 margin-right : 10px ;
 
@@ -19,9 +20,10 @@ background-color : white ;
 border-color : black;
 border-style : solid ;
 border-width: 2px ;
-color : rgb(41, 118, 211);
+color : blue ;
 height: 100px ;
 width : 100px;
+font-size : 20px ;
 border-radius: 10px ;
 cursor : pointer;
 margin-right: 10px ;
