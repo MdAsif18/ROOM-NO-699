@@ -89,7 +89,9 @@ box-shadow: 10px 10px 10px black ;
 <style>
 .video-title {
 font-family : Arial ;
-font-size : 20px ;
+font-size : 50px ;
+font-style : italic ;
+text-align :  center ;
 }
 </style>
 
