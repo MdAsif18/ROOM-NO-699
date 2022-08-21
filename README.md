@@ -94,7 +94,9 @@ font-family : Arial ;
 font-size : 60px ;
 font-style :italic ;
 text-align :  center ;
-color : blue ;
+color : black ;
+
+text-decoration-line: underline;
 
 }
 </style>
