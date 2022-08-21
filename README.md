@@ -50,7 +50,7 @@ margin-right: 10px ;
 
 
 
-.Family-button {
+.Our Family-button {
 background-color : green ;
 }
 
@@ -58,7 +58,7 @@ background-color : green ;
 </style>
 <button class=" Welcome-button"> Welcome </button>
 <button class ="To-button">To</button>
-<button class="Family">Family</button>
+<button class="Our Family-button"> Our Family</button>
 
 <body style ="background:url(https://ibb.co/k9YDdH3) " ></body>
 
