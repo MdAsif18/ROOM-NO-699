@@ -52,6 +52,13 @@ margin-right: 10px ;
 
 .Family-button {
 background-color : green ;
+color : white ;
+font-size : 40px ;
+border-radius : 10px ;
+height : 100px ;
+width : 400px ;
+cursor : pointer ;
+
 }
 
 
