@@ -12,7 +12,7 @@ border-radius: 10px ;
 cursor : pointer ;
 
 } 
-.to-button {
+.To-button {
 background-color : white ;
 border-color : black;
 border-style : solid ;
