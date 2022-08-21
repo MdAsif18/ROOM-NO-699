@@ -27,6 +27,29 @@ cursor : pointer;
 margin-right: 10px ;
 
 }
+.Our Family-Tbutton {
+
+background-color : white ;
+
+border-color : black;
+
+border-style : solid ;
+
+border-width: 2px ;
+
+color : rgb(41, 118, 211);
+
+height: 100px ;
+
+width : 100px;
+
+border-radius: 10px ;
+
+cursor : pointer;
+
+margin-right: 10px ;
+}
+
 
 </style>
 <button class=" Welcome-button"> Welcome </button>
