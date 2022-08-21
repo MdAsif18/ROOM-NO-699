@@ -88,6 +88,8 @@ box-shadow: 10px 10px 10px black ;
 :green">CABIN NO 6 FAMILY</h1>
 <style>
 .video-title {
+background-color : gray ;
+
 font-family : Arial ;
 font-size : 60px ;
 font-style :italic ;
