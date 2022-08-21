@@ -56,7 +56,7 @@ color : white ;
 font-size : 40px ;
 border-radius : 10px ;
 height : 100px ;
-width : 400px ;
+width : 200px ;
 cursor : pointer ;
 
 }
