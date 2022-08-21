@@ -7,9 +7,11 @@
 { background-color : red ;
 color:white;
 height : 100px;
-width: 500px ;
+width: 200px ;
 border-radius: 10px ;
 cursor : pointer ;
+margin-right : 10px ;
+
 
 } 
 .To-button {
@@ -22,6 +24,7 @@ height: 100px ;
 width : 100px;
 border-radius: 10px ;
 cursor : pointer;
+margin-right: 10px ;
 
 }
 
