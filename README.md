@@ -19,7 +19,8 @@ margin-right : 10px ;
 background-color : green ;
 }
 .Welcome-button : active {
-background-color : white ;
+background-color : white ; 
+}
 .To-button {
 background-color : white ;
 border-color : black;
