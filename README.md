@@ -12,6 +12,7 @@ border-radius: 10px ;
 font-size : 40px ;
 cursor : pointer ;
 margin-right : 10px ;
+margin-left : 50px ;
 box-shadow : 10px 10px 10px black ;
 
 
