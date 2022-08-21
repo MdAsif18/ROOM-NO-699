@@ -2,6 +2,7 @@
 
 <html> 
 <head><title>Cabin no 6</title></head>
+<button> Welcome </button>
 
 <body style ="background:url(https://ibb.co/k9YDdH3)" ></body>
 
