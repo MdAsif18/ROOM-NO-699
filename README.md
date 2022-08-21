@@ -4,7 +4,7 @@
 <head><title>Cabin no 6</title></head>
 <style> 
 .Welcome-button
-{ background-color : saffron ;
+{ background-color : rgb(100, 60, 20) ;
 color:white;
 height : 100px;
 width: 200px ;
