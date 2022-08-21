@@ -15,6 +15,11 @@ margin-right : 10px ;
 
 
 } 
+.Welcome-button : hover {
+background-color : green ;
+}
+.Welcome-button : active {
+background-color : white ;
 .To-button {
 background-color : white ;
 border-color : black;
