@@ -11,7 +11,7 @@ border-radius: 10px ;
 cursor : pointer ;
 
 } </style>
-<button> Welcome </button>
+<button class=" Welcome-button"> Welcome </button>
 <button> To</button>
 
 <body style ="background:url(https://ibb.co/k9YDdH3) " ></body>
