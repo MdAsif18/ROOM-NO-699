@@ -32,6 +32,9 @@ background-color : white ;
 border-radius: 10px ;
 border-style : solid ;
 color : black ;
+height: 100px ;
+width : 500px ;
+cursor : pointer ;
 }
 
 
