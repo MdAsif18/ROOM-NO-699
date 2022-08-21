@@ -3,7 +3,9 @@
 <html> 
 <head><title>Cabin no 6</title></head>
 <style> button
-{ background-color : red ; } </style>
+{ background-color : red ;
+color:white;
+} </style>
 <button> Welcome </button>
 
 <body style ="background:url(https://ibb.co/k9YDdH3) " ></body>
