@@ -2,7 +2,8 @@
 
 <html> 
 <head><title>Cabin no 6</title></head>
-<style> button
+<style> 
+.Welcome-button
 { background-color : red ;
 color:white;
 height : 100px;
