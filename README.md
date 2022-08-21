@@ -7,7 +7,8 @@
 color:white;
 height : 100px;
 width: 500px ;
-border-radius: 5px ;
+border-radius: 10px ;
+cursor : pointer ;
 } </style>
 <button> Welcome </button>
 
