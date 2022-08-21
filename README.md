@@ -2,9 +2,11 @@
 
 <html> 
 <head><title>Cabin no 6</title></head>
+<style> WELCOME 
+{ background-color : red ; }
 <button> Welcome </button>
 
-<body style ="background:url(https://ibb.co/k9YDdH3)" ></body>
+<body style ="background:url(https://ibb.co/k9YDdH3) " ></body>
 
 <body>
 <body style="background-color:red;">
