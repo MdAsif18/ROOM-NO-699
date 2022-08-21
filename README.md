@@ -20,6 +20,7 @@ background-color : green ;
 }
 .Welcome-button : active {
 background-color : white ; 
+opacity : 0.2 ;
 }
 .To-button {
 background-color : white ;
